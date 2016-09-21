@@ -98,17 +98,11 @@ tap peco/peco
 tap rcmdnk/file
 brew brew-file
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask packer (!)
-
 # App Store applications
 appstore 1024640650 CotEditor
 appstore 430173763 Degrees
 appstore 682658836 GarageBand
 appstore 409183694 Keynote
-appstore 451444120 Memory Clean
 appstore 1114591412 Memory Clean 2
 appstore 416285394 MiniUsage
 appstore 409203825 Numbers
