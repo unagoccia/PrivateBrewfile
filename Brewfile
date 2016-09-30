@@ -99,14 +99,13 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1024640650 CotEditor
-appstore 430173763 Degrees
-appstore 682658836 GarageBand
-appstore 409183694 Keynote
-appstore 1114591412 Memory Clean 2
-appstore 416285394 MiniUsage
-appstore 409203825 Numbers
-appstore 409201541 Pages
-appstore 425424353 The Unarchiver
-appstore 497799835 Xcode
-appstore 408981434 iMovie
+appstore 1024640650 CotEditor (2.5.7)
+appstore 430173763 Degrees (4.2.1)
+appstore 682658836 GarageBand (10.1.2)
+appstore 409183694 Keynote (7.0)
+appstore 1114591412 Memory Clean 2 (1.2)
+appstore 409203825 Numbers (4.0)
+appstore 409201541 Pages (6.0)
+appstore 425424353 The Unarchiver (3.11.1)
+appstore 497799835 Xcode (8.0)
+appstore 408981434 iMovie (10.1.2)
