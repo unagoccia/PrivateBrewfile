@@ -38,12 +38,10 @@ cask quicklook-csv
 cask quicklook-json
 cask seil
 cask shupapan
-cask skitch
 cask skype
 cask utorrent
 cask vagrant
 cask virtualbox
-cask xtrafinder
 
 tap caskroom/versions
 cask thunderbird-ja
