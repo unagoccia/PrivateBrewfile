@@ -14,6 +14,7 @@ cask bartender
 cask bettertouchtool
 cask betterzipql
 cask cheatsheet
+cask clipy
 cask diskwave
 cask dropbox
 cask firefox
@@ -81,6 +82,7 @@ brew peco
 brew phantomjs
 brew postgresql
 brew readline
+brew rename
 brew ruby
 brew sqlite
 brew ssh-copy-id
@@ -97,11 +99,13 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
+appstore 448189857 CPULed (1.3)
 appstore 1024640650 CotEditor (2.5.7)
 appstore 430173763 Degrees (4.2.1)
 appstore 682658836 GarageBand (10.1.2)
 appstore 409183694 Keynote (7.0)
 appstore 1114591412 Memory Clean 2 (1.2)
+appstore 416285394 MiniUsage (1.5.0)
 appstore 409203825 Numbers (4.0)
 appstore 409201541 Pages (6.0)
 appstore 425424353 The Unarchiver (3.11.1)
