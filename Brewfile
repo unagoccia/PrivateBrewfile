@@ -39,10 +39,12 @@ cask quicklook-csv
 cask quicklook-json
 cask seil
 cask shupapan
+cask skitch
 cask skype
 cask utorrent
 cask vagrant
 cask virtualbox
+cask xtrafinder
 
 tap caskroom/versions
 cask thunderbird-ja
@@ -103,11 +105,11 @@ appstore 448189857 CPULed (1.3)
 appstore 1024640650 CotEditor (2.5.7)
 appstore 430173763 Degrees (4.2.1)
 appstore 682658836 GarageBand (10.1.2)
-appstore 409183694 Keynote (7.0)
+appstore 409183694 Keynote (6.6.2)
 appstore 1114591412 Memory Clean 2 (1.2)
 appstore 416285394 MiniUsage (1.5.0)
-appstore 409203825 Numbers (4.0)
-appstore 409201541 Pages (6.0)
+appstore 409203825 Numbers (3.6.2)
+appstore 409201541 Pages (5.6.2)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 497799835 Xcode (8.0)
 appstore 408981434 iMovie (10.1.2)
