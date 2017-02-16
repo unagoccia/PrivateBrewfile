@@ -5,8 +5,8 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask 1password
 cask alfred
-cask animated-gif-quicklook
 cask anytrans
 cask appcleaner
 cask atom
@@ -18,6 +18,7 @@ cask clipy
 cask diskwave
 cask dropbox
 cask firefox
+cask genymotion
 cask gimp
 cask hetimazipql
 cask insomniax
@@ -29,7 +30,7 @@ cask magican
 cask mplayerx
 cask mysqlworkbench
 cask netbeans
-cask onyx
+cask nox-app-player
 cask phoneclean
 cask qlcolorcode
 cask qlimagesize
@@ -41,13 +42,11 @@ cask seil
 cask shupapan
 cask skitch
 cask skype
-cask utorrent
 cask vagrant
 cask virtualbox
 cask xtrafinder
 
 tap caskroom/versions
-cask thunderbird-ja
 
 tap homebrew/bundle
 
@@ -68,6 +67,7 @@ brew gmp
 brew gnu-getopt
 brew gnu-sed
 brew highlight
+brew icu4c
 brew jenv
 brew libtool
 brew libyaml
@@ -80,7 +80,7 @@ brew nodebrew
 brew openssl
 brew packer
 brew pcre
-brew peco
+brew peco --force
 brew phantomjs
 brew postgresql
 brew readline
@@ -95,21 +95,21 @@ brew zsh --without-etcdir
 
 tap homebrew/versions
 
-tap peco/peco
-
 tap rcmdnk/file
 brew brew-file
 
 # App Store applications
+appstore 1024640650 CotEditor (3.1.3)
 appstore 448189857 CPULed (1.3)
-appstore 1024640650 CotEditor (2.5.7)
 appstore 430173763 Degrees (4.2.1)
-appstore 682658836 GarageBand (10.1.2)
+appstore 682658836 GarageBand (10.1.5)
+appstore 408981434 iMovie (10.1.4)
+appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 409183694 Keynote (6.6.2)
-appstore 1114591412 Memory Clean 2 (1.2)
+appstore 1114591412 Memory Clean 2 (1.4)
 appstore 416285394 MiniUsage (1.5.0)
 appstore 409203825 Numbers (3.6.2)
 appstore 409201541 Pages (5.6.2)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 497799835 Xcode (8.0)
-appstore 408981434 iMovie (10.1.2)
+appstore 962713362 TUT Touch Typing (1.7)
+appstore 497799835 Xcode (8.2.1)
