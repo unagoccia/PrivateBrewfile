@@ -80,7 +80,7 @@ brew nodebrew
 brew openssl
 brew packer
 brew pcre
-brew peco --force
+brew peco
 brew phantomjs
 brew postgresql
 brew readline
